@@ -52,7 +52,7 @@ A growing collection of hands-on security projects, investigations and technical
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="42" height="42" alt="Microsoft Azure" title="Microsoft Azure" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="42" height="42" alt="PowerShell" title="PowerShell" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wireshark/wireshark-original.svg" width="42" height="42" alt="Wireshark" title="Wireshark" />
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="42" height="42" alt="Wireshark" title="Wireshark" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="42" height="42" alt="Bash" title="Bash" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="42" height="42" alt="Windows" title="Windows" />
 </p>
