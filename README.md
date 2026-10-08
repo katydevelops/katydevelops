@@ -86,7 +86,7 @@ A growing collection of hands-on security projects, investigations and technical
 
 ---
 
-## 🌱 Currently Exploring
+## 🏞️ Currently Exploring
 
 - 🔎 Threat hunting and incident investigation
 - 🛡️ Vulnerability management and remediation
@@ -95,13 +95,13 @@ A growing collection of hands-on security projects, investigations and technical
 
 ---
 
-## 🌷 Beyond the Terminal
+## ✨ Beyond the Terminal
 
-**Serial student 📚 · Runner 🏃‍♀️ · Fitness enthusiast 💪 · Coffee snob ☕ · Corgi mom 🐾**
+**Serial student 📚 · Corgi mom 🐾 · Runner 🏃‍♀️ · Fitness enthusiast 💪 · Outdoor enthusiast 🌿 · Adventure seeker 🧭 · Coffee snob ☕ **
 
 When I'm not investigating security logs or learning something new, I'm probably out running, working out, making an unnecessarily elaborate cup of coffee or hanging out with my two corgis.
 
-Equal parts tech nerd, health enthusiast and curious human.
+Equal parts tech nerd, animal person, health enthusiast and curious human.
 
 ---
 
