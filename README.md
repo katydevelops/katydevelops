@@ -24,33 +24,6 @@ A collection of hands-on security projects, investigations and technical write-u
 
 Rather than stopping at theory, these projects focus on actually working through the process — investigating telemetry, identifying vulnerabilities, hardening systems, remediating findings and validating the results.
 
----
-
-## 🔎 [Meridian | Healthcare Web Portal Threat Hunt](https://github.com/katydevelops/threat_hunt_meridian)
-
-**Threat Hunting · KQL · Azure Log Analytics · Incident Investigation**
-
-A guided threat hunt investigating a compromise of a healthcare web portal using raw security telemetry.
-
-The investigation reconstructs attacker activity across the intrusion timeline, including reconnaissance, initial access, path traversal, credential and configuration discovery and post-compromise activity.
-
-**Highlights:**
-
-- Investigated raw telemetry using **KQL and Azure Log Analytics**
-- Identified attacker infrastructure and malicious activity
-- Reconstructed the attack timeline across multiple stages
-- Investigated web reconnaissance and path traversal activity
-- Documented findings in a structured threat hunt report
-- Mapped observed activity to relevant security concepts and attack behaviors
-
-➡️ **[View the Threat Hunt](https://github.com/katydevelops/threat_hunt_meridian)**
-
----
-
-## 🛡️ Cybersecurity Portfolio
-
-A growing collection of hands-on security projects, investigations and technical write-ups.
-
 | Project | Description |
 |---|---|
 | 🔎 **[Meridian — Healthcare Web Portal Threat Hunt](https://github.com/katydevelops/threat_hunt_meridian)** | Investigating suspicious activity and reconstructing an attack timeline using KQL and Azure Log Analytics |
