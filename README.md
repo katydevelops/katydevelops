@@ -27,7 +27,7 @@ Rather than stopping at theory, these projects focus on actually working through
 | Project | Description |
 |---|---|
 | 🚨 **[Security Operations Capstone](https://github.com/katydevelops/secOpsFinalProject)** | Investigating security events and working through hands-on security operations workflows in Microsoft Azure |
-| 🛡️ **[Vulnerability Management Portfolio](https://github.com/katydevelops/cyberRangePortfolio)** | Performing authenticated vulnerability assessments, remediating findings and validating results using Tenable |
+| 🛡️ **[Vulnerability Management Portfolio](https://github.com/katydevelops/cyberRangePortfolio/tree/main/vulnerabilityManagement)** | Performing authenticated vulnerability assessments, remediating findings and validating results using Tenable |
 | 🛠️ **[Programmatic Vulnerability Remediations](https://github.com/katydevelops/programmaticRemediations)** | Using PowerShell and Windows configuration changes to remediate vulnerabilities and security misconfigurations |
 | 🔎 **[Meridian — Healthcare Web Portal Threat Hunt](https://github.com/katydevelops/threat_hunt_meridian)** | Investigating suspicious activity and reconstructing an attack timeline using KQL and Azure Log Analytics |
 
