@@ -47,79 +47,16 @@ The investigation reconstructs attacker activity across the intrusion timeline, 
 
 ---
 
-## 🛡️ [Vulnerability Management Portfolio](https://github.com/katydevelops/cyberRangePortfolio)
+## 🛡️ Cybersecurity Portfolio
 
-**Tenable · Vulnerability Management · Windows Server · Security Hardening**
+A growing collection of hands-on security projects, investigations and technical write-ups.
 
-An end-to-end vulnerability management project following a system through discovery, analysis, remediation and validation.
-
-Authenticated Tenable assessments were used to identify operating system, configuration and third-party software vulnerabilities. Findings were investigated and remediated individually with authenticated rescans used to validate each change.
-
-**Highlights:**
-
-- Performed authenticated vulnerability assessments with **Tenable**
-- Analyzed Critical, High, Medium and Low severity findings
-- Remediated vulnerable third-party software
-- Hardened SMB signing and RDP Network Level Authentication
-- Restored stronger LAN Manager authentication
-- Investigated persistent Critical **libcurl** findings
-- Validated remediation through repeated authenticated rescans
-- Reduced reportable vulnerabilities from **24 → 3**
-- Eliminated **100% of Critical and High severity findings**
-- Achieved an **87.5% overall reduction in reportable vulnerabilities**
-
-➡️ **[View the Vulnerability Management Project](https://github.com/katydevelops/cyberRangePortfolio)**
-
----
-
-## 🛠️ [Programmatic Vulnerability Remediations](https://github.com/katydevelops/programmaticRemediations)
-
-**PowerShell · Windows Security · Vulnerability Remediation · Automation**
-
-A companion project focused on turning vulnerability findings into repeatable remediation commands and scripts.
-
-The repository documents programmatic fixes for vulnerabilities and insecure configurations identified during the vulnerability management lifecycle.
-
-**Remediations include:**
-
-- Windows Update configuration
-- Guest account hardening
-- Vulnerable Wireshark / WinPcap removal
-- SMB signing enforcement
-- EdgeCore / libcurl remediation
-- RDP Network Level Authentication
-- LAN Manager authentication hardening
-
-Each remediation follows the same core workflow:
-
-**Detect → Investigate → Remediate → Validate**
-
-Because running a command isn't proof that a vulnerability is gone.
-
-**The rescan is the proof.**
-
-➡️ **[View the Remediation Scripts](https://github.com/katydevelops/programmaticRemediations)**
-
----
-
-## 🚨 [Security Operations Final Project](https://github.com/katydevelops/secOpsFinalProject)
-
-**Security Operations · Microsoft Azure · Sentinel · Defender · Incident Response**
-
-A hands-on security operations project bringing together defensive security concepts, security monitoring and incident investigation in a Microsoft security environment.
-
-The project demonstrates practical experience working through security operations workflows rather than treating individual security tools in isolation.
-
-**Focus Areas:**
-
-- Security monitoring and investigation
-- Microsoft security tooling
-- Security telemetry analysis
-- Incident investigation workflows
-- Defensive security operations
-- Documentation and technical analysis
-
-➡️ **[View the Security Operations Project](https://github.com/katydevelops/secOpsFinalProject)**
+| Project | Description |
+|---|---|
+| 🔎 **[Meridian — Healthcare Web Portal Threat Hunt](https://github.com/katydevelops/threat_hunt_meridian)** | Investigating suspicious activity and reconstructing an attack timeline using KQL and Azure Log Analytics |
+| 🛡️ **[Vulnerability Management Portfolio](https://github.com/katydevelops/cyberRangePortfolio)** | Performing authenticated vulnerability assessments, remediating findings and validating results using Tenable |
+| 🛠️ **[Programmatic Vulnerability Remediations](https://github.com/katydevelops/programmaticRemediations)** | Using PowerShell and Windows configuration changes to remediate vulnerabilities and security misconfigurations |
+| 🚨 **[Security Operations Final Project](https://github.com/katydevelops/secOpsFinalProject)** | Investigating security events and working through hands-on security operations workflows in Microsoft Azure |
 
 ---
 
